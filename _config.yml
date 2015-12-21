@@ -1,0 +1,28 @@
+name: PicOrb
+favicon: null
+layout_spectrum: 0.6204490647651255
+typography_spectrum: 0.32484188792295754
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.775165131315589
+  lightness: 0.6210981372278184
+  saturation: 0.4622269058600068
+  rhythmicContrast: 0.305315779754892
+purpose: []
