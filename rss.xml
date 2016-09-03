@@ -4,14 +4,14 @@
         <description><![CDATA[PicOrb]]></description>
         <link>https://thegrid.ai/picorb/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 03:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 21:01:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/picorb/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Home]]></title>
-            <description><![CDATA[<p>Multidisciplinary team from around the world.</p>]]></description>
+            <title><![CDATA[We are.]]></title>
+            <description><![CDATA[<article><h1>We are.</h1><p>Multidisciplinary team from around the world.</p></article>]]></description>
             <link>https://thegrid.ai/picorb/home/index.html</link>
             <guid isPermaLink="false">20ad7d5e-2228-43af-8828-6bab717e21e2</guid>
-            <pubDate>Wed, 25 May 2016 03:14:58 GMT</pubDate>
+            <pubDate>Wed, 31 Aug 2016 21:01:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
